@@ -1,4 +1,4 @@
-﻿﻿﻿# Spring-Web
+# Spring-Web
 
 ## Primeira aula - DevSuperior
 https://github.com/devsuperior/java-web-spring-2022
