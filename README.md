@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿﻿﻿﻿﻿# Spring-Web
+=======
+# Spring-Web
+>>>>>>> 5e98beebbb083440ba6dbf3bce6422098793efb9
 ## Primeira aula - DevSuperior
 
 ### Spring Web
@@ -20,9 +24,7 @@ https://www.youtube.com/watch?v=LXRU-Z36GEU&t=4192s
 ### Spring Security
 
 https://github.com/MichelliBrito/parking-control-api/tree/security
-
 <br>
-
 https://www.youtube.com/watch?v=t6prPki7daU
 
 
