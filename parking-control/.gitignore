@@ -31,3 +31,23 @@ build/
 
 ### VS Code ###
 .vscode/
+
+*.class
+
+/node_modules
+
+# SSH KEYS
+
+*.pem
+*.ppk
+
+# Mobile Tools for JAVA (J2ME)
+.mtj.tmp/
+
+# Packages Files #
+*.jar
+*.war
+*.ear
+
+# Merge Files
+*.bak
